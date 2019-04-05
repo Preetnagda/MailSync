@@ -1,0 +1,46 @@
+.spacer{
+  height: 50px;
+}
+.outlookmail{
+  padding: 20px !important;
+}
+.one{
+  background-color:  #F5F5F5;
+}
+.click{
+  background-color: #C0C0C0;
+}
+.element{
+  display: none;
+}
+.crdiv{
+  height: 70%;
+  padding : 50px 150px !important;
+  margin : auto;
+}
+.secondDiv{
+  text-align: center;
+  margin: 0 auto;
+}
+.secondDiv h2{
+  padding: 25px;
+  font-size: 2.5em;
+  font-weight: bold;
+}
+.modal-body p {
+    word-wrap: break-word !important;
+}
+#overlay {
+  position: fixed;
+  display: none;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0,0,0,0.5);
+  z-index: 2;
+  cursor: pointer;
+
+}
